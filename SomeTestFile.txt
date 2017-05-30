@@ -1,1 +1,12 @@
 This file is added to test GitHub.
+
+New changes to this file in the master branch to test the branching.
+Testing the branching
+
+Making more changes to use Git Bash
+
+Some changes to make conflict
+Creating conflict.
+
+Changing the master branch
+Changing the develop2 branch
