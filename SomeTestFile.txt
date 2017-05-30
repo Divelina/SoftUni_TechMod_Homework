@@ -4,3 +4,5 @@ New changes to this file in the master branch to test the branching.
 Testing the branching
 
 Making more changes to use Git Bash
+
+Creating conflict.
