@@ -9,3 +9,4 @@ Some changes to make conflict
 Creating conflict.
 
 Changing the master branch
+Changing the develop2 branch
