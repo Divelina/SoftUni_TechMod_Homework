@@ -1,3 +1,4 @@
 This file is added to test GitHub.
 
 New changes to this file in the master branch to test the branching.
+Testing the branching
