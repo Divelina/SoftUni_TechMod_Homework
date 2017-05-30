@@ -7,3 +7,5 @@ Making more changes to use Git Bash
 
 Some changes to make conflict
 Creating conflict.
+
+Changing the develop2 branch
