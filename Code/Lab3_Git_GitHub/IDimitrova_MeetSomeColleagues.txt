@@ -1,0 +1,14 @@
+My name is Mariana Kovacheva.
+I am from Sofia.
+I am 21 years old.
+I like reading books in my free time.
+I chose SoftUni, because I want to develop my programming skills.
+
+My name is Radoslav Mitkov.
+I am from Kavarna.
+I enjoy riding bicicles, skating and swimming.
+I picked SoftUni, becuase I liked the program.
+
+I am Veli Angelova.
+I am from Vidin.
+I like play volleyboll.
